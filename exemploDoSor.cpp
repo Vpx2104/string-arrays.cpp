@@ -8,7 +8,3 @@ int main () {
     cin >> str;
 
     cout << "a string digitada (exemplo 1):\n" << str << endl;
-
-    string str = "(exemplo 1)\n" 
-    return 0;
-}
