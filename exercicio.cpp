@@ -9,8 +9,7 @@ int main () {
 
     cout << "a string digitada (exemplo 1):\n" << str << endl;
 
-int a = 5, b = 3;
-std::cout << "a² + b² = " << a * a + b * b << std::endl;
-
-return 0;
+    string str = "(exemplo 1) \n";
+    printf ("tamanho da string: %zu\n", str.size());
+    return 0;
 }
